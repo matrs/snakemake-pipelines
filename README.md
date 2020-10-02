@@ -1,4 +1,4 @@
-# snakemake-pipelines
+# Examples of (rather small) snakemake-pipelines
 
 [16s rRNA Amplicon](https://github.com/matrs/amplicon-qiime2)
 
