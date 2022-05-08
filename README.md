@@ -1,4 +1,4 @@
-# Examples of (rather small) `snakemake` pipelines
+# Examples of `snakemake` pipelines
 
 [Hypothetical proteins' annotation using PDB](https://github.com/matrs/Annotating_from_PDB)
 
